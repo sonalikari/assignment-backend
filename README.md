@@ -6,7 +6,7 @@
 
 1. Clone the repository.
 
-### `git clone <repository-url>`
+### `git clone https://github.com/sonalikari/assignment-backend.git`
 
 2. Run the command.
 
